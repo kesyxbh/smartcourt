@@ -1,0 +1,4 @@
+# Code walkthroughs: study notes that stay on this machine
+docs/*.md
+backend/docs/*.md
+frontend/docs/*.md
